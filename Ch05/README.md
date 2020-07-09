@@ -1,7 +1,14 @@
-# Exercise files
-In this chapter, there files with a step by step guide on how to build a custom action.
-Guides on:
-- Creating a docker image for the action
-- Creating the action
-- Testing the action.
-- Releasing the action to market place.
+# Exercise files For Chapter 5
+# Title: Building Custom Actions
+This Chapter focuses on
+- Planning a custom action
+- Defining an objective for your custom action
+- A review of Docker Files
+- Adding an entry point script
+- Using runtime environment resources
+- Testing an action locally
+- Completing the entry point scripts
+- Adding Metedata
+- Adding a README fILE
+- Deploying a custom action
+- Publishing an action to the marketplace.
